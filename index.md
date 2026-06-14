@@ -16,6 +16,8 @@ layout: home
 | 1 | 소프트웨어 구현으로의 초대 | [Ch 1](./jekyll/2026-06-09-chapter1.html) |
 | 2 | 소프트웨어 개발의 이해를 돕기 위한 비유 | [Ch 2](./jekyll/2026-06-10-chapter2.html) |
 | 3 | 준비는 철저하게: 선행 조건 | [Ch 3](./jekyll/2026-06-10-chapter3.html) |
+| 4 | 핵심 구현 결정 | [Ch 4](./jekyll/2026-06-16-chapter4.html) |
+| 5 | 구현에서의 설계 | [Ch 5](./jekyll/2026-06-16-chapter5.html) |
 
 ### 진행 일정
 
