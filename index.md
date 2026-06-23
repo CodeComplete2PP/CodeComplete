@@ -16,6 +16,10 @@ layout: home
 | 1 | 소프트웨어 구현으로의 초대 | [Ch 1](./jekyll/2026-06-09-chapter1.html) |
 | 2 | 소프트웨어 개발의 이해를 돕기 위한 비유 | [Ch 2](./jekyll/2026-06-10-chapter2.html) |
 | 3 | 준비는 철저하게: 선행 조건 | [Ch 3](./jekyll/2026-06-10-chapter3.html) |
+| 4 | 구현 시 결정해야 할 핵심 사항 | [Ch 4](./jekyll/2026-06-11-chapter4.html) |
+| 5 | 구현 설계 | [Ch 5](./jekyll/2026-06-16-chapter5.html) |
+| 6 | 클래스 다루기 | [Ch 6](./jekyll/2026-06-16-chapter6.html) |
+| 7 | 고급 루틴 | [Ch 7](./jekyll/2026-06-23-chapter7.html) |
 
 ### 진행 일정
 
@@ -29,11 +33,11 @@ layout: home
 | 7/14 | 13, 14, 15, 16장 | satanmoo0 |
 | 7/21 | 17, 18, 19장 | 시연이아빠 |
 | 7/28 | 20, 21, 22장 | 모리비 |
-| 8/4 | 23, 24, 25장 | eeeuns |
+| 8/4 | 23, 24, 25장 | Journey |
 | 8/11 | 26, 27장 | triplehoon |
 | 8/18 | 28, 29, 30장 | satanmoo0 |
 | 8/25 | 31, 32장 | eeeuns |
-| 9/1 | 33, 34, 35장 | 모리비 |
+| 9/1 | 33, 34, 35장 | Journey |
 
 ### 스터디원
 
@@ -42,6 +46,7 @@ layout: home
 - 모리비
 - triplehoon
 - satanmoo0
+- Journey
 
 ### 작업 기준
 
