@@ -44,6 +44,13 @@
 | 1 | 소프트웨어 구현으로의 초대 | [_posts/2026-06-09-chapter1.md](./_posts/2026-06-09-chapter1.md) |
 | 2 | 소프트웨어 개발의 이해를 돕기 위한 비유 | [_posts/2026-06-10-chapter2.md](./_posts/2026-06-10-chapter2.md) |
 | 3 | 준비는 철저하게: 선행 조건 | [_posts/2026-06-10-chapter3.md](./_posts/2026-06-10-chapter3.md) |
+| 4 | 구현 시 결정해야 할 핵심 사항 | [_posts/2026-06-16-chapter4.md](./_posts/2026-06-16-chapter4.md) |
+| 5 | 구현 설계 | [_posts/2026-06-16-chapter5.md](./_posts/2026-06-16-chapter5.md) |
+| 6 | 클래스 다루기 | [_posts/2026-06-16-chapter6.md](./_posts/2026-06-16-chapter6.md) |
+| 7 | 고급 루틴 | [_posts/2026-06-16-chapter7.md](./_posts/2026-06-16-chapter7.md) |
+| 8 | 방어적인 프로그래밍 | [_posts/2026-06-24-chapter8.md](./_posts/2026-06-24-chapter8.md) |
+| 9 | 의사코드 프로그래밍 프로세스 | [_posts/2026-06-24-chapter9.md](./_posts/2026-06-24-chapter9.md) |
+| 10 | 변수 사용 시 고려할 사항 | [_posts/2026-06-24-chapter10.md](./_posts/2026-06-24-chapter10.md) |
 
 ## 로컬 실행
 

@@ -16,10 +16,13 @@ layout: home
 | 1 | 소프트웨어 구현으로의 초대 | [Ch 1](./jekyll/2026-06-09-chapter1.html) |
 | 2 | 소프트웨어 개발의 이해를 돕기 위한 비유 | [Ch 2](./jekyll/2026-06-10-chapter2.html) |
 | 3 | 준비는 철저하게: 선행 조건 | [Ch 3](./jekyll/2026-06-10-chapter3.html) |
-| 4 | 구현 시 결정해야 할 핵심 사항 | [Ch 4](./jekyll/2026-06-11-chapter4.html) |
+| 4 | 구현 시 결정해야 할 핵심 사항 | [Ch 4](./jekyll/2026-06-16-chapter4.html) |
 | 5 | 구현 설계 | [Ch 5](./jekyll/2026-06-16-chapter5.html) |
-| 6 | 클래스 다루기 | [Ch 6](./jekyll/2026-06-16-chapter6.html) |
+| 6 | 클래스 다루기 | [Ch 6](./jekyll/2026-06-23-chapter6.html) |
 | 7 | 고급 루틴 | [Ch 7](./jekyll/2026-06-23-chapter7.html) |
+| 8 | 방어적인 프로그래밍 | [Ch 8](./jekyll/2026-06-24-chapter8.html) |
+| 9 | 의사코드 프로그래밍 프로세스 | [Ch 9](./jekyll/2026-06-24-chapter9.html) |
+| 10 | 변수 사용 시 고려할 사항 | [Ch 10](./jekyll/2026-06-24-chapter10.html) |
 
 ### 진행 일정
 
