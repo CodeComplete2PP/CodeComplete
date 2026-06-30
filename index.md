@@ -54,3 +54,7 @@ layout: home
 ### 작업 기준
 
 장 요약을 추가하거나 수정할 때는 [CODEX_CHAPTER_WORKING_GUIDE.md](./CODEX_CHAPTER_WORKING_GUIDE.md)를 따른다.
+
+- [repo](https://github.com/CodeComplete2PP/CodeComplete)
+- [site](https://codecomplete2pp.github.io/CodeComplete/)
+
