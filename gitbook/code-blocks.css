@@ -1,0 +1,43 @@
+.markdown-section pre,
+.markdown-section .highlight {
+    background: #f6f8fa;
+    border: 1px solid #d0d7de;
+    border-radius: 6px;
+    color: #24292f;
+    margin: 0 0 1.275em;
+    overflow: auto;
+}
+
+.markdown-section pre {
+    padding: 1em;
+    white-space: pre;
+    word-wrap: normal;
+}
+
+.markdown-section .highlight pre,
+.markdown-section pre.highlight {
+    background: transparent;
+    border: 0;
+    margin: 0;
+    padding: 1em;
+}
+
+.markdown-section pre > code {
+    color: inherit;
+    font-size: .9em;
+    line-height: 1.55;
+}
+
+.markdown-section .highlight code {
+    background: transparent;
+    padding: 0;
+}
+
+.markdown-section code {
+    border-radius: 4px;
+}
+
+.markdown-section .highlight .err {
+    background-color: transparent;
+    color: inherit;
+}
