@@ -23,6 +23,8 @@ layout: home
 | 8 | 방어적인 프로그래밍 | [Ch 8](./jekyll/2026-06-24-chapter8.html) |
 | 9 | 의사코드 프로그래밍 프로세스 | [Ch 9](./jekyll/2026-06-24-chapter9.html) |
 | 10 | 변수 사용 시 고려할 사항 | [Ch 10](./jekyll/2026-06-24-chapter10.html) |
+| 11 | 변수 이름의 기능 | [Ch 11](./jekyll/2026-07-07-chapter11.html) |
+| 12 | 기본 데이터형 | [Ch 12](./jekyll/2026-07-07-chapter12.html) |
 
 ### 진행 일정
 
