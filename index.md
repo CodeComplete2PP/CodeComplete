@@ -25,6 +25,10 @@ layout: home
 | 10 | 변수 사용 시 고려할 사항 | [Ch 10](./jekyll/2026-06-24-chapter10.html) |
 | 11 | 변수 이름의 기능 | [Ch 11](./jekyll/2026-07-07-chapter11.html) |
 | 12 | 기본 데이터형 | [Ch 12](./jekyll/2026-07-07-chapter12.html) |
+| 13 | 특이한 데이터형 | [Ch 13](./jekyll/2026-07-14-chapter13.html) |
+| 14 | 순차적 코드 구성하기 | [Ch 14](./jekyll/2026-07-14-chapter14.html) |
+| 15 | 조건문 사용 | [Ch 15](./jekyll/2026-07-14-chapter15.html) |
+| 16 | 반복문 제어 | [Ch 16](./jekyll/2026-07-14-chapter16.html) |
 
 ### 진행 일정
 
