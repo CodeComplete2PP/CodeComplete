@@ -44,6 +44,9 @@
 | 1 | 소프트웨어 구현으로의 초대 | [_posts/2026-06-09-chapter1.md](./_posts/2026-06-09-chapter1.md) |
 | 2 | 소프트웨어 개발의 이해를 돕기 위한 비유 | [_posts/2026-06-10-chapter2.md](./_posts/2026-06-10-chapter2.md) |
 | 3 | 준비는 철저하게: 선행 조건 | [_posts/2026-06-10-chapter3.md](./_posts/2026-06-10-chapter3.md) |
+| 4 | 구현 시 결정해야 할 핵심 사항 | [_posts/2026-06-16-chapter4.md](./_posts/2026-06-16-chapter4.md) |
+| 5 | 구현 설계 | [_posts/2026-06-16-chapter5.md](./_posts/2026-06-16-chapter5.md) |
+| 6~35 | 클래스 다루기부터 더 많은 정보를 얻으려면 | [_posts](./_posts) |
 
 ## 로컬 실행
 
