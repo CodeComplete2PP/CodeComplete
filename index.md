@@ -29,6 +29,16 @@ layout: home
 | 14 | 순차적 코드 구성하기 | [Ch 14](./jekyll/2026-07-14-chapter14.html) |
 | 15 | 조건문 사용 | [Ch 15](./jekyll/2026-07-14-chapter15.html) |
 | 16 | 반복문 제어 | [Ch 16](./jekyll/2026-07-14-chapter16.html) |
+| 17 | 특이한 제어 구조 | [Ch 17](./jekyll/2026-07-21-chapter17.html) |
+| 18 | 테이블 활용 기법 | [Ch 18](./jekyll/2026-07-21-chapter18.html) |
+| 19 | 제어와 관련된 일반적인 이슈 | [Ch 19](./jekyll/2026-07-21-chapter19.html) |
+| 20 | 소프트웨어 품질 | [Ch 20](./jekyll/2026-07-28-Chapter20.html) |
+| 21 | 협력 구현 | [Ch 21](./jekyll/2026-07-28-Chapter21.html) |
+| 22 | 개발자 테스트 | [Ch 22](./jekyll/2026-07-28-Chapter22.html) |
+| 23 | 디버깅 | [Ch 23](./jekyll/2026-08-04-chapter23.html) |
+| 24 | 리팩터링 | [Ch 24](./jekyll/2026-08-04-chapter24.html) |
+| 25 | 코드 튜닝 전략 | [Ch 25](./jekyll/2026-08-04-chapter25.html) |
+
 
 ### 진행 일정
 
