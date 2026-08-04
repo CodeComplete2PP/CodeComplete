@@ -14,30 +14,30 @@ layout: home
 | Chapter | 제목 | 링크 |
 | --- | --- | --- |
 | 1 | 소프트웨어 구현으로의 초대 | [Ch 1](./jekyll/2026-06-09-chapter1.html) |
-| 2 | 소프트웨어 개발의 이해를 돕기 위한 비유 | [Ch 2](./jekyll/2026-06-10-chapter2.html) |
-| 3 | 준비는 철저하게: 선행 조건 | [Ch 3](./jekyll/2026-06-10-chapter3.html) |
-| 4 | 구현 시 결정해야 할 핵심 사항 | [Ch 4](./jekyll/2026-06-16-chapter4.html) |
-| 5 | 구현 설계 | [Ch 5](./jekyll/2026-06-16-chapter5.html) |
+| 2 | 소프트웨어 개발의 이해를 돕기 위한 비유 | [Ch 2](./jekyll/2026-06-9-chapter2.html) |
+| 3 | 준비는 철저하게: 선행 조건 | [Ch 3](./jekyll/2026-06-9-chapter3.html) |
+| 4 | 구현 시 결정해야 할 핵심 사항 | [Ch 4](./jekyll/2026-06-15-chapter4.html) |
+| 5 | 구현 설계 | [Ch 5](./jekyll/2026-06-15-chapter5.html) |
 | 6 | 클래스 다루기 | [Ch 6](./jekyll/2026-06-23-chapter6.html) |
 | 7 | 고급 루틴 | [Ch 7](./jekyll/2026-06-23-chapter7.html) |
-| 8 | 방어적인 프로그래밍 | [Ch 8](./jekyll/2026-06-24-chapter8.html) |
-| 9 | 의사코드 프로그래밍 프로세스 | [Ch 9](./jekyll/2026-06-24-chapter9.html) |
-| 10 | 변수 사용 시 고려할 사항 | [Ch 10](./jekyll/2026-06-24-chapter10.html) |
-| 11 | 변수 이름의 기능 | [Ch 11](./jekyll/2026-07-07-chapter11.html) |
-| 12 | 기본 데이터형 | [Ch 12](./jekyll/2026-07-07-chapter12.html) |
-| 13 | 특이한 데이터형 | [Ch 13](./jekyll/2026-07-14-chapter13.html) |
-| 14 | 순차적 코드 구성하기 | [Ch 14](./jekyll/2026-07-14-chapter14.html) |
-| 15 | 조건문 사용 | [Ch 15](./jekyll/2026-07-14-chapter15.html) |
-| 16 | 반복문 제어 | [Ch 16](./jekyll/2026-07-14-chapter16.html) |
-| 17 | 특이한 제어 구조 | [Ch 17](./jekyll/2026-07-21-chapter17.html) |
-| 18 | 테이블 활용 기법 | [Ch 18](./jekyll/2026-07-21-chapter18.html) |
-| 19 | 제어와 관련된 일반적인 이슈 | [Ch 19](./jekyll/2026-07-21-chapter19.html) |
+| 8 | 방어적인 프로그래밍 | [Ch 8](./jekyll/2026-06-23-chapter8.html) |
+| 9 | 의사코드 프로그래밍 프로세스 | [Ch 9](./jekyll/2026-06-23-chapter9.html) |
+| 10 | 변수 사용 시 고려할 사항 | [Ch 10](./jekyll/2026-06-23-chapter10.html) |
+| 11 | 변수 이름의 기능 | [Ch 11](./jekyll/2026-07-06-chapter11.html) |
+| 12 | 기본 데이터형 | [Ch 12](./jekyll/2026-07-06-chapter12.html) |
+| 13 | 특이한 데이터형 | [Ch 13](./jekyll/2026-07-13-chapter13.html) |
+| 14 | 순차적 코드 구성하기 | [Ch 14](./jekyll/2026-07-13-chapter14.html) |
+| 15 | 조건문 사용 | [Ch 15](./jekyll/2026-07-13-chapter15.html) |
+| 16 | 반복문 제어 | [Ch 16](./jekyll/2026-07-13-chapter16.html) |
+| 17 | 특이한 제어 구조 | [Ch 17](./jekyll/2026-07-20-chapter17.html) |
+| 18 | 테이블 활용 기법 | [Ch 18](./jekyll/2026-07-20-chapter18.html) |
+| 19 | 제어와 관련된 일반적인 이슈 | [Ch 19](./jekyll/2026-07-20-chapter19.html) |
 | 20 | 소프트웨어 품질 | [Ch 20](./jekyll/2026-07-28-Chapter20.html) |
 | 21 | 협력 구현 | [Ch 21](./jekyll/2026-07-28-Chapter21.html) |
 | 22 | 개발자 테스트 | [Ch 22](./jekyll/2026-07-28-Chapter22.html) |
-| 23 | 디버깅 | [Ch 23](./jekyll/2026-08-04-chapter23.html) |
-| 24 | 리팩터링 | [Ch 24](./jekyll/2026-08-04-chapter24.html) |
-| 25 | 코드 튜닝 전략 | [Ch 25](./jekyll/2026-08-04-chapter25.html) |
+| 23 | 디버깅 | [Ch 23](./jekyll/2026-08-03-chapter23.html) |
+| 24 | 리팩터링 | [Ch 24](./jekyll/2026-08-03-chapter24.html) |
+| 25 | 코드 튜닝 전략 | [Ch 25](./jekyll/2026-08-03-chapter25.html) |
 
 
 ### 진행 일정
