@@ -38,6 +38,8 @@ layout: home
 | 23 | 디버깅 | [Ch 23](./jekyll/2026-08-03-chapter23.html) |
 | 24 | 리팩터링 | [Ch 24](./jekyll/2026-08-03-chapter24.html) |
 | 25 | 코드 튜닝 전략 | [Ch 25](./jekyll/2026-08-03-chapter25.html) |
+| 26 | 코드 튜닝 기법 | [Ch 26](./jekyll/2026-08-10-chapter26.html) |
+| 27 | 프로그램의 크기가 구현에 미치는 영향 | [Ch 27](./jekyll/2026-08-10-chapter27.html) |
 
 
 ### 진행 일정
